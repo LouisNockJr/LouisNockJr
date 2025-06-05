@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/LouisNockJr/osticket-ticketlifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/LouisNockJr/activedirectory-config)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/LouisNockJr/azure-network-protocols)
 - <b>Mini Organization Setup within Azure (Special Project)</b>
   - [Capsule Corporation]
  
