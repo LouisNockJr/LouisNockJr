@@ -9,8 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/LouisNockJr/activedirectory-config)
   - [Active Directory: Users, Group Policy and Account Management](https://github.com/LouisNockJr/azure-network-protocols)
-- <b>Mini Organization Setup within Azure (Special Project)</b>
-  - [Capsule Corporation]
+
  
 <h2>🤳Connect with me:</h2>
 
