@@ -1,15 +1,19 @@
 <h1>Hi, I'm Louis, an <a href="https://linkedin.com/in/louisnockjr">Aspiring IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
-
+<p>
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/louisnockjr/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/LouisNockJr/osticket-postinstallconfig)
-  - [osTicket: Ticket Lifecycle](https://github.com/LouisNockJr/osticket-ticketlifecycle)</ br>
-- <b>Microsoft Azure & Active Directory</b>
+  - [osTicket: Ticket Lifecycle](https://github.com/LouisNockJr/osticket-ticketlifecycle)
+</p>
+</ br>
+<p>
+- <b>Microsoft Azure & Active Directory
   - [Configuring Active Directory within Azure VMs](https://github.com/LouisNockJr/activedirectory-config)
   - [Active Directory: Users, Group Policy and Account Management](https://github.com/LouisNockJr/azure-network-protocols)
-
+</p>
+</ br>
  
 <h2>🤳Connect with me:</h2>
 
